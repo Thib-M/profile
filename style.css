@@ -60,6 +60,7 @@ a:hover {
   border-radius: 4px;
   margin: 20px 0px;
   text-align: center;
+  background-color: red;
 }
 .img-rounded {
   border-radius: 20%;
